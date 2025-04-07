@@ -1,0 +1,5 @@
+.explore-wrapper {
+  background: url("../../../public/assets/images/explore/background.png")
+    no-repeat center bottom;
+  background-size: cover;
+}

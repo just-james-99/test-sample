@@ -1,0 +1,8 @@
+.wrapper {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 73%,
+    rgba(0, 0, 0, 0.3) 85.5%
+  );
+  position: relative;
+}

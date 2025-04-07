@@ -1,0 +1,7 @@
+.map-wrapper{
+    background-image: url('../../../public/assets/images/activities-map/background.png');
+    background-size: cover;
+    background-position: 10% 10%;
+    background-repeat: no-repeat;
+    background-color: #fff6f4 ;
+}
